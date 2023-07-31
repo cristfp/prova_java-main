@@ -1,4 +1,4 @@
-package br.com.confidencecambio.javabasico.modelo;
+package br.com.confidencecambio.javabasico.model;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotEmpty;
